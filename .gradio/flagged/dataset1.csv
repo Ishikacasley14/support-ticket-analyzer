@@ -1,0 +1,2 @@
+Enter Ticket Text,Predicted Issue Type,Predicted Urgency Level,Extracted Entities (JSON),timestamp
+Order #19283 for SmartWatch V2 arrived broken and 5 days late. Please fix this issue ASAP!,"{""label"": ""Late Delivery"", ""confidences"": null}","{""label"": ""Medium"", ""confidences"": null}","{""product"": ""SmartWatch V2"", ""dates"": null, ""complaints"": [""broken"", ""late"", ""issue""]}",2025-07-08 12:47:46.527300
